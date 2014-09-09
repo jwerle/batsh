@@ -7,7 +7,7 @@ Queue bash commands to run with a given concurrency. Similar to
 ## install
 
 ```sh
-$ bpkg install batsh
+$ bpkg install jwerle/batsh
 ```
 
 ## usage
