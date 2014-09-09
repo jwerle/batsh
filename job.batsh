@@ -1,0 +1,6 @@
+#!/usr/bin/env batsh
+
+push 'echo hi'
+push 'sleep 1'
+push 'echo bye'
+run 'echo done'

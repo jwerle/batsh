@@ -1,0 +1,9 @@
+{
+  "name": "batsh",
+  "version": "0.0.1",
+  "description": "Queue bash commands to run with a given concurrency",
+  "global": "true",
+  "install": "make install",
+  "scripts": [ "batsh.sh" ]
+}
+
